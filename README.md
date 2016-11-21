@@ -20,7 +20,7 @@ De 1h (très rapide) à 2h (bon rythme)
 <div class="page-break"></div>
 
 ## Déroulement
-Le but du jeu est de construire un pont au dessus d'un court d'eau en répondant aux différentes fonctionnalitées proposées (CF. annexes ci-dessous).
+Le but du jeu est de construire un pont au dessus d'un court d'eau en répondant aux différentes fonctionnalités proposées (CF. annexes ci-dessous).
 
 Pour chaque fonctionnalitée réalisée, un nombre de point est attribué au groupe (CF carte de fonctionnalité)
 
