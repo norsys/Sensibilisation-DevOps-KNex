@@ -22,7 +22,7 @@ De 1h (très rapide) à 2h (bon rythme)
 ## Déroulement
 Le but du jeu est de construire un pont au dessus d'un court d'eau en répondant aux différentes fonctionnalités proposées (CF. annexes ci-dessous).
 
-Pour chaque fonctionnalitée réalisée, un nombre de point est attribué au groupe (CF carte de fonctionnalité)
+Pour chaque fonctionnalité réalisée, un nombre de point est attribué au groupe (CF carte de fonctionnalité)
 
 
 Séparer en 2 équipes de 5 personnes maximum (1 équipe de Dev et 1 équipe Ops).
