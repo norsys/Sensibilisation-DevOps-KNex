@@ -40,7 +40,7 @@ Proposer leur de reproduire cette balançoire par exemple :
 Expliquer et montrer aux 2 équipes le socle qui sera maintenu par l’équipe Ops.  
 Ce socle est un pilier unique placé au centre du court d'eau, le pont devra être placé au dessus.
 
-Chaque équipe peut alors construire sont propre socle à partir de l'image ci-dessous :
+Chaque équipe peut alors construire son propre socle à partir de l'image ci-dessous :
 
 ![Socle](./images/socle.jpg "Socle initial")
 
