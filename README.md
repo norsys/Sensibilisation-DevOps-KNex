@@ -52,15 +52,15 @@ Ensuite, le jeu se déroule en 3 itérations :
 
 (Situation traditionnelle)
 
-Les 2 équipes sont séparées dans des salles différentes et ont chacun leur tableau de pilotage visuel (TODO, DOING, DONE)
+Les 2 équipes sont séparées dans des salles différentes et ont chacune leur tableau de pilotage visuel (TODO, DOING, DONE)
 
 
-Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #1 (CF. Cartes) et un document d'installation  à fournir aux Ops + la backlog facultative si le temps le leur permet.
+Les Devs doivent réaliser les fonctionnalités obligatoires de l'itération #1 (CF. Cartes) et un document d'installation  à fournir aux Ops + la backlog facultative si le temps le leur permet.
 
 
-Les Ops doivent stabiliser les piliers avec les demandes associées au Sprint #1.
+Les Ops doivent stabiliser les piliers avec les demandes associées à l'itération #1.
 
-A la fin de l'itération, les 2 équipes se réunissent autour d’un environnement de production. Les Dev livrent le contenu de leur production (sans le socle) + leur procédure d’installation.  
+A la fin de l'itération, les 2 équipes se réunissent autour d’un environnement de production. Les Devs livrent le contenu de leur production (sans le socle) + leur procédure d’installation.  
 Un des Ops est désigné pour faire l’installation en production en moins de 2 minutes sur l'unique base de la procédure d’installation (les autres personnes restent silencieuses)
 
 #### Review 1ère itération
@@ -73,15 +73,15 @@ Faire émerger les actions à mettre en place par les participants :
 
 ### 2ème itération
 
-Sur la bases des actions choisis, l'itération #2 reprend :  
-Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #2(CF. Cartes) + la backlog facultative si le temps le leur permet.  
-Les Devs reparte de ce qui a été livré en production.  
+Sur la bases des actions choisies, l'itération #2 reprend :  
+Les Devs doivent réaliser les fonctionnalités obligatoires de l'itération #2(CF. Cartes) + la backlog facultative si le temps le leur permet.  
+Les Devs repartent de ce qui a été livré en production.  
 
-Les Ops doivent faire évoluer les piliers avec les demandes associées au Sprint #2.
+Les Ops doivent faire évoluer les piliers avec les demandes associées à l'itération #2.
 
-A l'issue de l'itération, les 2 équipes se réunissent autour d’un environnement de production. Les Dev livrent le contenu de leur production (sans le socle).
+A l'issue de l'itération, les 2 équipes se réunissent autour d’un environnement de production. Les Devs livrent le contenu de leur production (sans le socle).
 
-Un des Ops et un des Dev sont désignés pour faire l’installation en production, ensemble, en moins de 2 minutes.
+Un des Ops et un des Devs sont désignés pour faire l’installation en production, ensemble, en moins de 2 minutes.
 (les autres personnes restent silencieuses)
 
 > NB : le déroulement de cette itération peut être différent selon les actions mises en place par les participants suite à la review #1... Quoiqu'il arrive, laissez les mettre en place ce qu'ils ont choisis.
@@ -96,10 +96,10 @@ Faire émerger les actions à mettre en place par les participants :
 ***
 
 ### 3ème itération
-Sur la bases des actions choisis, l'itération #2 reprend :
+Sur la bases des actions choisies, l'itération #2 reprend :
 
-Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #3(CF. Cartes) + la backlog facultative si le temps le leur permet.
-Les Devs reparte de ce qui a été livré en production.
+Les Devs doivent réaliser les fonctionnalités obligatoires de l'itération #3(CF. Cartes) + la backlog facultative si le temps le leur permet.
+Les Devs repartent de ce qui a été livré en production.
 
 Les Ops doivent mettre en place les tests afin de garantir la qualité de la livraison et assurer la livraison de la réalisation depuis l’environnement de recette. (CF. Cartes)  
 Exemple de tests de connexion entre le pont et le socle :  
@@ -110,6 +110,7 @@ Les Devs peuvent alors réaliser le pont et livrer en recette continuellement, t
 
 Finalement, les 2 équipes se réunissent autour d’un environnement de production et installent ensemble la solution.
 
+> NB : le déroulement de cette itération peut être différent selon les actions mises en place par les participants suite à la review #2... Quoiqu'il arrive, laissez les mettre en place ce qu'ils ont choisis.
 
 #### Review 3ème itération
 Constat : Réussite, Pourquoi ?  
