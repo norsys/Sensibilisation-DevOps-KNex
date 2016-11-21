@@ -101,11 +101,11 @@ Sur la bases des actions choisies, l'itération #2 reprend :
 Les Devs doivent réaliser les fonctionnalités obligatoires de l'itération #3(CF. Cartes) + la backlog facultative si le temps le leur permet.
 Les Devs repartent de ce qui a été livré en production.
 
-Les Ops doivent mettre en place les tests afin de garantir la qualité de la livraison et assurer la livraison de la réalisation depuis l’environnement de recette. (CF. Cartes)  
+Les Ops doivent mettre en place les tests afin de garantir la qualité de la livraison et assure la livraison de la réalisation depuis l’environnement de recette. (CF. Cartes)  
 Exemple de tests de connexion entre le pont et le socle :  
 ![Test](./images/tests.jpg "Tests")
 
-Les Devs peuvent alors réaliser le pont et livrer en recette continuellement, tandis que les Ops ont réalisent les tests sur les productions en recette et réfléchissent à la future installation depuis la recette.
+Les Devs peuvent alors réaliser le pont et livrer en recette continuellement, tandis que les Ops réalisent les tests sur les productions en recette et réfléchissent à la future installation depuis la recette.
 
 
 Finalement, les 2 équipes se réunissent autour d’un environnement de production et installent ensemble la solution.
@@ -135,7 +135,7 @@ La collaboration, travailler en équipe est en fait une compétence individuelle
 Automatisation, et excellence technique :
 * Rechercher l’automatisation, plus que la procédure : installation, tests
 * Mettre en place une pré-production pour s’entraîner et valider une livraison avant son déploiement
-* Assurer une montée en charge possible (et un mode dégradé de secours) (la structure doit supporter une feuille de papier, puis 1Kg, puis 5Kg )
+* Assurer une montée en charge possible (et un mode dégradé de secours)
 
 
 ### Culture
