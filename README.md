@@ -28,9 +28,9 @@ Pour chaque fonctionnalité réalisée, un nombre de point est attribué au grou
 Séparer en 2 équipes de 5 personnes maximum (1 équipe de Dev et 1 équipe Ops).
 
 ### Prise en main des K'nex
-Bien que facile à utiliser, peu de personnes connaissent vraiment les K'nex et leurs inombrables possibilités, il est donc important de laisser quelques minutes aux équipes pour les manipuler avant.
+Bien que facile à utiliser, peu de personnes connaissent vraiment les K'nex et leurs innombrables possibilités, il est donc important de laisser quelques minutes aux équipes pour les manipuler avant.
 
-Proposer leur de reproduire cette balaçoire par exemple :
+Proposer leur de reproduire cette balançoire par exemple :
 
 ![Prise en main avec la balançoire](./images/balancoire.jpg "Prise en main avec la balançoire" )
 
@@ -55,7 +55,7 @@ Ensuite, le jeu se déroule en 3 itérations :
 Les 2 équipes sont séparées dans des salles différentes et ont chacun leur tableau de pilotage visuel (TODO, DOING, DONE)
 
 
-Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #1 (CF. Cartes) et un documant d'installation  à fournir aux Ops + la backlog facultative si le temps le leur permet.
+Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #1 (CF. Cartes) et un document d'installation  à fournir aux Ops + la backlog facultative si le temps le leur permet.
 
 
 Les Ops doivent stabiliser les piliers avec les demandes associées au Sprint #1.
@@ -102,7 +102,7 @@ Les Devs doivent réaliser les fonctionnalités obligatoires du Sprint #3(CF. Ca
 Les Devs reparte de ce qui a été livré en production.
 
 Les Ops doivent mettre en place les tests afin de garantir la qualité de la livraison et assurer la livraison de la réalisation depuis l’environnement de recette. (CF. Cartes)  
-Exemple de tests de connection entre le pont et le socle :  
+Exemple de tests de connexion entre le pont et le socle :  
 ![Test](./images/tests.jpg "Tests")
 
 Les Devs peuvent alors réaliser le pont et livrer en recette continuellement, tandis que les Ops ont réalisent les tests sur les productions en recette et réfléchissent à la future installation depuis la recette.
@@ -133,14 +133,14 @@ La collaboration, travailler en équipe est en fait une compétence individuelle
 
 Automatisation, et excellence technique :
 * Rechercher l’automatisation, plus que la procédure : installation, tests
-* Mettre en place une pré-production pour s’entrainer et valider une livraison avant son déploiement
+* Mettre en place une pré-production pour s’entraîner et valider une livraison avant son déploiement
 * Assurer une montée en charge possible (et un mode dégradé de secours) (la structure doit supporter une feuille de papier, puis 1Kg, puis 5Kg )
 
 
 ### Culture
 * Le développeur apprendra à anticiper la phase d’intégration en se rendant disponible,
 * L’intégrateur apprendra à remonter ses problématiques d’intégration aux développeurs
-* Passer d’un mode silo, à un mode coopération. Exemple : avoir une personne de’infrastructure dans l’équipe de réalisation, et inversement
+* Passer d’un mode silo, à un mode coopération. Exemple : avoir une personne de l’infrastructure dans l’équipe de réalisation, et inversement
 * Faire des livraisons en présence des 2 équipes
 
 ### Partage
@@ -156,7 +156,7 @@ ex : passer de 2 tableaux de bord distincts, à un seul visible des 2 équipes
 
 ### DevOps : Si nous ne devions retenir qu'une seule chose ?
 <u>La communication</u>  
-la premère étape pour mettre en place l'approche DevOps est très simple : il suffit de faciliter la communication entre les équipes. Sans elle, vous aurez beau mettre en place tous les outils du monde, **ça ne fonctionnera pas**.  
+la première étape pour mettre en place l'approche DevOps est très simple : il suffit de faciliter la communication entre les équipes. Sans elle, vous aurez beau mettre en place tous les outils du monde, **ça ne fonctionnera pas**.  
 
 ***
 [Vos créations](./creations/)
