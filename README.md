@@ -173,6 +173,7 @@ Norsys
 Agile Tour Lille 2016  
 Agile tour Paris 2016  
 Agile Tour Sofia 2016  
+Agile Game France 2017
 ![AgileTour](./images/at.jpg "Agile Tour")
 ![Norsys](./images/norsys.png "Norsys")
 
